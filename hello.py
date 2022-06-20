@@ -1,1 +1,1 @@
-Hello there! Git is fun
+Print("Hello there! Git is fun")
